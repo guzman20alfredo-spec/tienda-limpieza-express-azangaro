@@ -11,3 +11,6 @@ wp-content/uploads/2022/04/*.zip
 
 *.zip
 wp-content/uploads/
+
+wp-config.php
+*.zip
