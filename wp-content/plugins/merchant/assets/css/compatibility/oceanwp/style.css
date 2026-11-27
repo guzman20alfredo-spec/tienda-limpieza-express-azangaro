@@ -1,0 +1,103 @@
+.merchant-theme-oceanwp .merchant-dp-line,
+.merchant-theme-oceanwp .merchant-dp-section {
+  text-transform: none;
+}
+.merchant-theme-oceanwp table.shop_table.merchant-dp-summary td {
+  text-transform: none;
+}
+.merchant-theme-oceanwp .merchant-dp-line,
+.merchant-theme-oceanwp .merchant-dp-line-hint,
+.merchant-theme-oceanwp .merchant-dp-section .merchant-dp-shipments {
+  font-size: 13px;
+}
+.merchant-theme-oceanwp .merchant-dp-line-label {
+  font-size: 11px;
+}
+.merchant-theme-oceanwp .merchant-dp-section .merchant-dp-shipments-title,
+.merchant-theme-oceanwp .merchant-dp-part-heading,
+.merchant-theme-oceanwp .merchant-dp-change-panel > summary {
+  font-size: 14px;
+}
+.merchant-theme-oceanwp .merchant-dp-section,
+.merchant-theme-oceanwp .merchant-dp-order-actions {
+  --merchant-dp-gap: 8px;
+}
+.merchant-theme-oceanwp .merchant-dp-reschedule .merchant-dp-line-label {
+  font-size: 12px;
+}
+.merchant-theme-oceanwp .merchant-dp-reschedule .merchant-dp-line-select {
+  padding: 6px 28px 6px 10px;
+  font-size: 15px;
+}
+.merchant-theme-oceanwp .merchant-dp-reschedule .merchant-dp-submit {
+  padding: 10px 20px;
+  font-size: 14px;
+}
+.merchant-theme-oceanwp .wp-block-woocommerce-checkout .merchant-dp-line-mount,
+.merchant-theme-oceanwp .wp-block-woocommerce-checkout .merchant-dp-line-hint,
+.merchant-theme-oceanwp .wp-block-woocommerce-checkout .merchant-dp-shipment,
+.merchant-theme-oceanwp .wp-block-woocommerce-cart .merchant-dp-line-mount,
+.merchant-theme-oceanwp .wp-block-woocommerce-cart .merchant-dp-line-hint,
+.merchant-theme-oceanwp .wp-block-woocommerce-cart .merchant-dp-shipment {
+  font-size: 13px;
+}
+.merchant-theme-oceanwp .wp-block-woocommerce-checkout .merchant-dp-line-label,
+.merchant-theme-oceanwp .wp-block-woocommerce-cart .merchant-dp-line-label {
+  font-size: 11px;
+}
+.merchant-theme-oceanwp .merchant-frequently-bought-together-bundle-total-price del {
+  text-decoration: none;
+}
+.merchant-theme-oceanwp .merchant-frequently-bought-together-bundle-total-price del .woocommerce-Price-amount bdi {
+  font-size: 14px;
+  text-decoration: line-through;
+}
+.merchant-theme-oceanwp .merchant-side-cart-widget .woocommerce-mini-cart-item {
+  padding: 10px 0 10px 0;
+}
+.merchant-theme-oceanwp .merchant-side-cart-widget .woocommerce-mini-cart-item .owp-grid-wrap {
+  position: relative;
+}
+.merchant-theme-oceanwp .merchant-side-cart-widget .woocommerce-mini-cart-item .owp-grid.content {
+  width: 75%;
+}
+.merchant-theme-oceanwp .merchant-side-cart-widget .woocommerce-mini-cart-item .owp-grid.content .quantity {
+  text-align: right;
+}
+.merchant-theme-oceanwp .merchant-side-cart-widget .woocommerce-mini-cart-item .owp-grid.content > div {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+.merchant-theme-oceanwp .merchant-side-cart-widget .woocommerce-mini-cart-item .owp-grid.content h3 {
+  margin-bottom: 10px;
+}
+.merchant-theme-oceanwp .merchant-side-cart-widget .woocommerce-mini-cart-item .owp-grid.content .variation {
+  margin: 0 0 10px 0;
+}
+.merchant-theme-oceanwp .merchant-side-cart-widget .woocommerce-mini-cart-item .owp-grid.content .variation * {
+  display: inline;
+}
+.merchant-theme-oceanwp .merchant-side-cart-widget .woocommerce-mini-cart-item .owp-grid.content .variation p {
+  margin: 0;
+}
+.merchant-theme-oceanwp .merchant-side-cart-widget .woocommerce-mini-cart-item .owp-grid.content .variation dd {
+  margin-bottom: 10px;
+}
+.merchant-theme-oceanwp .merchant-side-cart-widget .woocommerce-mini-cart-item .owp-grid.content a.remove {
+  line-height: 16px;
+  -webkit-transition: 300ms;
+  transition: 300ms;
+  color: #cacaca;
+}
+.merchant-theme-oceanwp .merchant-side-cart-widget .woocommerce-mini-cart-item .owp-grid.content a.remove:hover {
+  color: #fff;
+}
+.merchant-theme-oceanwp .merchant-side-cart-widget .woocommerce-mini-cart-item .owp-grid.thumbnail {
+  width: 25%;
+}
+.merchant-theme-oceanwp .merchant-side-cart-widget .woocommerce-mini-cart-item .owp-grid.thumbnail img {
+  position: static;
+  max-width: 100%;
+}
